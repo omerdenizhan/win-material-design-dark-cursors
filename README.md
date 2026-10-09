@@ -9,7 +9,7 @@ You can use it on Windows 7/8/10/11 operating systems.
 You can download the Cursors folder to your computer, right-click the setup.inf installation file and select install, or download the file from the releases folder and run it as administrator.
 
 ## 🕰️ Last Update
-Sept 15, 2026
+Oct 09, 2026
 
 ---
 <p align="center">❤️ Made with Love ❤️</p>
